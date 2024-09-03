@@ -1,0 +1,44 @@
+{
+    "app_name": "Healing Neko",
+    "app_icon": "assets/healing_neko/app_icon.png",
+    "release_date": 2024,
+    "licence": "CC-BY-NC-4.0",
+    "licence_link": "https://apps.catpawz.eu/licence/cc-by-nc-40",
+    "author_name": "Catpawz",
+    "author_email": "catpawz@catpawz.eu",
+    "android_link": "https://git.dynapaw.eu/fluffy_catpawz/healing_neko/releases",
+    "windows_link": "https://git.dynapaw.eu/fluffy_catpawz/healing_neko/releases",
+    "source": "https://git.dynapaw.eu/fluffy_catpawz/healing_neko",
+    "website": "https://catpawz.eu/healing-neko",
+    "app_slogan": "Feeling down? Our neko will help you to feel better! Check out Healing Neko today :3",
+    "app_description": "aaaa",
+    "screenshots": [
+      {
+        "url": "assets/healing_neko/01.png",
+        "alt": "Screenshot 1"
+      },
+      {
+        "url": "assets/healing_neko/01.png",
+        "alt": "Screenshot 2"
+      },
+      {
+        "url": "assets/healing_neko/01.png",
+        "alt": "Screenshot 3"
+      },
+      {
+        "url": "assets/healing_neko/01.png",
+        "alt": "Screenshot 4"
+      }
+    ],
+    "authors": [
+        {
+          "name": "Catpawz",
+          "url": "catpawz.eu"
+        },
+        {
+          "name": "TeaMaki",
+          "url": "-"
+        }
+      ]
+  }
+  
