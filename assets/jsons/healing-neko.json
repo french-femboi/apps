@@ -4,36 +4,37 @@
     "release_date": 2024,
     "licence": "BSD-3-Clause",
     "licence_link": "https://github.com/french-femboi/apps/blob/main/LICENSE",
-    "author_name": "Catpawz",
-    "author_email": "catpawz@catpawz.eu",
+    "author_name": "French Femboi",
+    "author_email": "cat@french-femboi.eu",
     "android_link": "https://github.com/french-femboi/Healing-Neko/releases",
     "windows_link": "https://github.com/french-femboi/Healing-Neko/releases",
     "source": "https://github.com/french-femboi/Healing-Neko",
     "website": "https://github.com/french-femboi/Healing-Neko",
     "app_slogan": "Feeling down? Our neko will help you to feel better! Check out Healing Neko today :3",
-    "app_description": "aaaa",
+    "app_description": 
+    "Healing Neko is an innovative and compassionate application designed to assist individuals in healing from past traumas, overcoming social anxiety, and addressing any other troubles they may be facing. It provides a safe and supportive environment for users to explore their feelings, gain insights into their emotional state, and develop strategies to avoid repeating past mistakes.",
     "screenshots": [
       {
         "url": "assets/healing_neko/01.png",
         "alt": "Screenshot 1"
       },
       {
-        "url": "assets/healing_neko/01.png",
+        "url": "assets/healing_neko/02.jpg",
         "alt": "Screenshot 2"
       },
       {
-        "url": "assets/healing_neko/01.png",
+        "url": "assets/healing_neko/03.jpg",
         "alt": "Screenshot 3"
       },
       {
-        "url": "assets/healing_neko/01.png",
+        "url": "assets/healing_neko/04.jpg",
         "alt": "Screenshot 4"
       }
     ],
     "authors": [
         {
           "name": "Catpawz",
-          "url": "catpawz.eu"
+          "url": "french-femboi.eu"
         },
         {
           "name": "TeaMaki",
